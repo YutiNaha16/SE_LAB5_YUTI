@@ -1,0 +1,1 @@
+[1minventory_system.py[m[36m:[m4[36m:[m10[36m:[m [1m[31mE999[m SyntaxError: invalid decimal literal
