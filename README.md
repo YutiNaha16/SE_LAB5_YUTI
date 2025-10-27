@@ -7,7 +7,7 @@
 ---
 
 ## Objective  
-The goal of this lab is to perform **Static Code Analysis** on a given Python program (`inventory_system.py`) to identify programming errors, bad practices, code smells, and potential security vulnerabilities using tools like **Pylint**, **Bandit**, and **Flake8**.  
+The goal of this lab is to perform **Static Code Analysis** on a given Python program (`inventory_system.py`) to identify programming errors, bad practices, code smells, and potential security vulnerabilities using tools like **Pylint**, **Bandit**, and **Flake8**. **Everything is under static analysis branch not main branch .**
 
 ---
 
