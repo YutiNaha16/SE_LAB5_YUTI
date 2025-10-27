@@ -1,2 +1,4 @@
-************* Module inventory_system
-inventory_system.py:4:9: E0001: Parsing failed: 'invalid decimal literal (inventory_system, line 4)' (syntax-error)
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+

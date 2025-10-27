@@ -1,10 +1,10 @@
-Run started:2025-10-27 07:04:17.344188
+Run started:2025-10-27 07:22:59.160837
 
 Test results:
 	No issues identified.
 
 Code scanned:
-	Total lines of code: 96
+	Total lines of code: 80
 	Total lines skipped (#nosec): 0
 	Total potential issues skipped due to specifically being disabled (e.g., #nosec BXXX): 0
 
@@ -19,5 +19,4 @@ Run metrics:
 		Low: 0
 		Medium: 0
 		High: 0
-Files skipped (1):
-	.\inventory_system.py (syntax error while parsing AST from file)
+Files skipped (0):
